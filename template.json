@@ -1,0 +1,7 @@
+{
+    "public_key": "pk1_......",
+    "private_key": "sk1_.....",
+    "domain": "mydomain.com",
+    "domain_type": "A",
+    "ttl": 600
+}
